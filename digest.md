@@ -1,4 +1,29 @@
-# YouTube 精选（RSS 频道，2026-10-28 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-10-29 12:00 UTC）
+
+## Google "Carbon" just won everything...
+- 频道：Matthew Berman｜时间：2026-10-29T00:29:20+00:00
+- 链接：https://www.youtube.com/watch?v=zhnJo7s91ls
+- 简介：Try Factory's $200 Max plan free for one month: https://factory.com/berman  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forw
+
+## Google announces Gemini 4 Carbon
+- 频道：Matthew Berman｜时间：2026-10-28T22:20:44+00:00
+- 链接：https://www.youtube.com/shorts/3yZb9rGt-rk
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## Why Agents Love Supabase — with Paul Copplestone and Ant Wilson
+- 频道：Latent Space｜时间：2026-10-28T19:34:35+00:00
+- 链接：https://www.youtube.com/watch?v=zHG6sAss_kE
+- 简介：Why do AI agents keep choosing Supabase—and what changes when the agent becomes the user?  Supabase co-founders Paul Copplestone (CEO) and Ant Wilson (CTO) join swyx for their first podcast together a
+
+## DeepSeek's New AI Is An Absolute Monster
+- 频道：Two Minute Papers｜时间：2026-10-28T17:32:40+00:00
+- 链接：https://www.youtube.com/watch?v=pryCaGv8wuo
+- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers  📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/  Sources: https://x.com
+
+## Did the AI bubble just pop?
+- 频道：Fireship｜时间：2026-10-28T13:31:29+00:00
+- 链接：https://www.youtube.com/watch?v=nEaJMdM1djM
+- 简介：Try Hyperagent for free, or sign in with ChatGPT to get more usage from your existing plan: https://www.hyperagent.com/login?utm_source=youtube&utm_medium=influencer&utm_campaign=FIRESHIP  Are we cook
 
 ## AI builds EVERYTHING...
 - 频道：Wes Roth｜时间：2026-10-28T07:36:56+00:00
@@ -34,18 +59,3 @@
 - 频道：Wes Roth｜时间：2026-10-27T12:10:55+00:00
 - 链接：https://www.youtube.com/watch?v=lskEzJ7ixw0
 - 简介：OpenAI says its AI has disproved the Exponential Time Hypothesis, challenging a barrier that shaped decades of computer science. Could there be shortcuts through problems we thought were impossibly ha
-
-## This is much more concerning than you think...
-- 频道：Matthew Berman｜时间：2026-10-27T01:58:24+00:00
-- 链接：https://www.youtube.com/watch?v=JI3bbZNdyeA
-- 简介：Use Code Matt for $100 in Kylon credits: https://kylon.io/matt1  Join the Frontier: https://forwardfuture.com/frontier-pass  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My 
-
-## China just dropped a new frontier model... and nobody can explain how
-- 频道：Fireship｜时间：2026-10-26T18:55:29+00:00
-- 链接：https://www.youtube.com/watch?v=G_em1hHPnXY
-- 简介：Get 20% off Mobbin Pro to help your agent design UIs that actually convert - https://mobbin.com/fireship  Kimi K3.1 just dropped as a free 3-trillion-parameter open-weight model that comes within one 
-
-## An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio
-- 频道：Latent Space｜时间：2026-10-26T15:00:07+00:00
-- 链接：https://www.youtube.com/watch?v=vhPCo-8K78U
-- 简介：Leash Biosciences built a platform to physically measure thousands of proteins against millions of molecules. In this followup to our Leash Bio podcast with cofounder Ian Quigley, he returns to discus
