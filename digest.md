@@ -1,6 +1,16 @@
-# YouTube 精选（RSS 频道，2026-11-04 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-05 12:00 UTC）
 
-## Behind Latent Space, ft AIEi Shanghai preview — with swyx and Galen Gao
+## I built my own PDF reader to replace Adobe Acrobat
+- 频道：Matthew Berman｜时间：2026-11-05T01:33:35+00:00
+- 链接：https://www.youtube.com/shorts/t8-RG3ju_Ao
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## The most important paper in AI right now
+- 频道：Matthew Berman｜时间：2026-11-04T17:09:34+00:00
+- 链接：https://www.youtube.com/watch?v=j09uV1oAuIo
+- 简介：Use Code 'Matt' for $100 in Kylon credits: https://kylon.io/matt2  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Futur
+
+## Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai
 - 频道：Latent Space｜时间：2026-11-04T10:32:51+00:00
 - 链接：https://www.youtube.com/watch?v=QmDLDy3ZSNE
 - 简介：Galen Gao (https://substack.com/@linkloud1, https://x.com/Ninggao88) interviews Shawn Wang (swyx) ahead of AIEi Shanghai, the first AI Engineer conference in China. They talk about how a blog on open-
@@ -19,13 +29,3 @@
 - 频道：Matthew Berman｜时间：2026-11-03T16:51:59+00:00
 - 链接：https://www.youtube.com/watch?v=r0cJOa9MZsE
 - 简介：Check out the NVIDIA RTX Spark Laptop: https://nvda.ws/4BmZphI  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  Check out what I've built: https://github.com/Forward-Future htt
-
-## Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora
-- 频道：Latent Space｜时间：2026-11-02T20:50:24+00:00
-- 链接：https://www.youtube.com/watch?v=bJBEFzlKPoQ
-- 简介：Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work?  Jacob Lauritzen is th
-
-## ‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon
-- 频道：AI Explained｜时间：2026-11-02T17:02:16+00:00
-- 链接：https://www.youtube.com/watch?v=0Kw6_DTZPrY
-- 简介：You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models t
