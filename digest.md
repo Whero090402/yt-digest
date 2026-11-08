@@ -1,6 +1,21 @@
-# YouTube 精选（RSS 频道，2026-11-07 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-08 12:00 UTC）
 
-## Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter
+## GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft
+- 频道：Latent Space｜时间：2026-11-08T01:22:17+00:00
+- 链接：https://www.youtube.com/watch?v=rSWiNE92xqM
+- 简介：GitHub’s next scaling challenge is the agent workload. The platform has 225 million developers and handled 34.3 billion commits over the past year. Jay Parikh, EVP of CoreAI at Microsoft, joins us str
+
+## 12 months to the singularity
+- 频道：Matthew Berman｜时间：2026-11-07T17:28:06+00:00
+- 链接：https://www.youtube.com/watch?v=lVbQqjAJpkE
+- 简介：Check out IntelliJ IDEA: https://jb.gg/air_ij_2026  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.
+
+## OpenAI's Astra Just Opened The Black Box Of AI
+- 频道：Two Minute Papers｜时间：2026-11-07T16:24:47+00:00
+- 链接：https://www.youtube.com/watch?v=GJ6PMUm5oTA
+- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/  🙏 
+
+## Why Would Anthropic Go Public Now? — Jamin Ball, Altimeter
 - 频道：Latent Space｜时间：2026-11-07T02:49:28+00:00
 - 链接：https://www.youtube.com/watch?v=P735f1xlpL0
 - 简介：Will Anthropic make it from filing an S-1 to trading on Nasdaq? Jamin Ball, partner at Altimeter and author of Clouded Judgement, joins swyx to walk through the roadshow, the Thanksgiving window and w
@@ -29,33 +44,3 @@
 - 频道：Wes Roth｜时间：2026-11-06T14:35:24+00:00
 - 链接：https://www.youtube.com/watch?v=2lt4P_xGFL8
 - 简介：what's Anthropic building in there? they just REDACTED most of their internal audit one of their models just broke ALL benchmarks  ______________________________________________  My Links 🔗  ➡️ Twitte
-
-## The Future of AI Is Absolutely Incredible (Spencer Huang)
-- 频道：Two Minute Papers｜时间：2026-11-06T07:27:02+00:00
-- 链接：https://www.youtube.com/watch?v=XgC1QTs6A2U
-- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers  Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05 Intelligence Density 20:13 Buildin
-
-## Pika turns images and sound into an editable video
-- 频道：Matthew Berman｜时间：2026-11-06T07:12:53+00:00
-- 链接：https://www.youtube.com/shorts/_CQ2QEI63o8
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## AI identified Breakout from 17,253 numbers
-- 频道：Matthew Berman｜时间：2026-11-06T00:32:37+00:00
-- 链接：https://www.youtube.com/shorts/F4i_-wbmhC8
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## A 4B AI model that creates 3D game assets
-- 频道：Matthew Berman｜时间：2026-11-05T20:32:08+00:00
-- 链接：https://www.youtube.com/shorts/hu1YDJZYGTc
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS
-- 频道：Matthew Berman｜时间：2026-11-05T16:51:09+00:00
-- 链接：https://www.youtube.com/watch?v=-M62vWrZh54
-- 简介：So much open source!!!  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  Already a member? Claim your Frontier Pass here: https://forwardfuture.com/frontier-pass  My Links 🔗 👉🏻 
-
-## this might be HUGE...
-- 频道：Wes Roth｜时间：2026-11-05T12:07:51+00:00
-- 链接：https://www.youtube.com/watch?v=DJjK6LAIouM
-- 简介：Build your own Bot team with Grok Bot: https://x.ai/bot?utm_source=youtube&utm_medium=video&utm_campaign=grok-bot&utm_content=wes-roth Build anything you want with your own team of AI agents.   ______
