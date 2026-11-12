@@ -1,4 +1,19 @@
-# YouTube 精选（RSS 频道，2026-11-11 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-12 12:00 UTC）
+
+## Let AI redesign your work
+- 频道：Matthew Berman｜时间：2026-11-12T07:50:40+00:00
+- 链接：https://www.youtube.com/shorts/TzZmDf60hIQ
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## AMA with me and the team!
+- 频道：Matthew Berman｜时间：2026-11-11T22:52:54+00:00
+- 链接：https://www.youtube.com/watch?v=LFzBzzHZESE
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## i wired my toilet to a Raspberry Pi
+- 频道：NetworkChuck｜时间：2026-11-11T17:24:38+00:00
+- 链接：https://www.youtube.com/watch?v=m1NtVno-y7Q
+- 简介：Companies still have to ship AI, and their AI agents now have real access to real servers and real data. Wiz gives you the complete context and runtime protection to adopt AI fast and safely. See Wiz 
 
 ## Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS
 - 频道：Matthew Berman｜时间：2026-11-11T11:00:25+00:00
@@ -29,33 +44,3 @@
 - 频道：Fireship｜时间：2026-11-10T18:19:55+00:00
 - 链接：https://www.youtube.com/watch?v=1FurWDiK9A4
 - 简介：Mux is the video API that translates audio and answers questions about your video. Get $50 in free credits: https://mux.com/fireship  Anthropic just dropped Fable and Mythos 5.2 in the middle of a roc
-
-## Is Software Over?
-- 频道：Two Minute Papers｜时间：2026-11-10T10:15:57+00:00
-- 链接：https://www.youtube.com/watch?v=vug73goPJaM
-- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingfa
-
-## Fable 5.2 just solved software
-- 频道：Matthew Berman｜时间：2026-11-10T00:56:42+00:00
-- 链接：https://www.youtube.com/shorts/oW98tLm7suY
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## NOTHING will be smarter than Fable 5.2...
-- 频道：Wes Roth｜时间：2026-11-10T00:02:58+00:00
-- 链接：https://www.youtube.com/watch?v=h76wUNmRqxc
-- 简介：Anthropic just released Claude Fable 5.2 and Claude Mythos 5.2, and while it is easily the most capable public model in the world across long-horizon coding, robotics, hardware design, and theoretical
-
-## OpenAI spent $1.2 million hacking Linux... and it was a bargain
-- 频道：Fireship｜时间：2026-11-09T21:04:16+00:00
-- 链接：https://www.youtube.com/watch?v=pf5tXJZM1Rw
-- 简介：Greptile is the only AI code reviewer that actually runs your code. Try it for free: https://greptile.com/go/fireship  A model you're not allowed to use just tore through the Linux kernel and came bac
-
-## Fable 5.2 is ridiculous
-- 频道：Matthew Berman｜时间：2026-11-09T19:02:56+00:00
-- 链接：https://www.youtube.com/watch?v=0vNyVMDFdkg
-- 简介：Check out Eight Sleep's Pod 6: https://www.eightsleep.com/matthewberman Use code 'MATTHEWBERMAN' for up to $200 off  Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  Check out m
-
-## What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team
-- 频道：Latent Space｜时间：2026-11-09T16:18:21+00:00
-- 链接：https://www.youtube.com/watch?v=v5IJwVnTxzg
-- 简介：Our first deep dive with an AI data company. Handshake AI went from launch to roughly $1 billion in annualized gross revenue in about a year. What are frontier labs actually buying? Garrett Lord and t
