@@ -1,4 +1,14 @@
-# YouTube 精选（RSS 频道，2026-11-13 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-14 12:00 UTC）
+
+## Funkiest Teams meeting EVER (Surprise video)
+- 频道：Two Minute Papers｜时间：2026-11-14T08:40:55+00:00
+- 链接：https://www.youtube.com/watch?v=x7iwI6WfWS0
+- 简介：After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for th
+
+## Gemini 4 Swarm is out of control...
+- 频道：Wes Roth｜时间：2026-11-13T14:16:35+00:00
+- 链接：https://www.youtube.com/watch?v=Sc6TriRAGnI
+- 简介：Google just unleashed Gemini 4 Carbon, Gemini 4 Hydrogen, Gemini Decision-1, AlphaProof Code, and Antigravity /swarm in a massive multi-day AI blitz — and to put it to the ultimate test, Gemini 4 Carb
 
 ## Who controls access to AI?
 - 频道：Matthew Berman｜时间：2026-11-13T02:45:18+00:00
@@ -24,18 +34,3 @@
 - 频道：Two Minute Papers｜时间：2026-11-12T13:41:41+00:00
 - 链接：https://www.youtube.com/watch?v=gPNiuyYirfw
 - 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ h
-
-## Let AI redesign your work
-- 频道：Matthew Berman｜时间：2026-11-12T07:50:40+00:00
-- 链接：https://www.youtube.com/shorts/TzZmDf60hIQ
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## AMA with me and the team!
-- 频道：Matthew Berman｜时间：2026-11-11T22:52:54+00:00
-- 链接：https://www.youtube.com/watch?v=LFzBzzHZESE
-- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
-
-## i wired my toilet to a Raspberry Pi
-- 频道：NetworkChuck｜时间：2026-11-11T17:24:38+00:00
-- 链接：https://www.youtube.com/watch?v=m1NtVno-y7Q
-- 简介：Companies still have to ship AI, and their AI agents now have real access to real servers and real data. Wiz gives you the complete context and runtime protection to adopt AI fast and safely. See Wiz 
