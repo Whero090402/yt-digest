@@ -1,4 +1,29 @@
-# YouTube 精选（RSS 频道，2026-11-20 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-21 12:00 UTC）
+
+## AI just BROKE SaaS...
+- 频道：Wes Roth｜时间：2026-11-21T10:02:45+00:00
+- 链接：https://www.youtube.com/watch?v=AxQE_ash8b8
+- 简介：Build and run your own AI projects on Hostinger: https://www.hostinger.com/wesrothvps Use code WESROTH at checkout.   RELATED VIDEOS:  AI just BROKE all of the software industry... https://www.youtube
+
+## Claude JUST solved the Riemann Hypothesis...
+- 频道：Wes Roth｜时间：2026-11-21T02:24:48+00:00
+- 链接：https://www.youtube.com/watch?v=xjX3jESpZqs
+- 简介：Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, the "Holy Grail" of math.  RELATED VIDEOS: Claude's 67.2% Riemann bound (A
+
+## Six Robots Worked a 24-Hour Shift at a Shanghai Convenience Store
+- 频道：Matthew Berman｜时间：2026-11-20T22:53:25+00:00
+- 链接：https://www.youtube.com/shorts/BoBe0tepch4
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## If you’ve deployed anything since 2015, I have bad news...
+- 频道：Fireship｜时间：2026-11-20T19:49:02+00:00
+- 链接：https://www.youtube.com/watch?v=rMaMe32qQkA
+- 简介：Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fireship&utm_content=fireship-1  Hackers hija
+
+## How to Actually Code with AI (ft. Matt Pocock)
+- 频道：NetworkChuck｜时间：2026-11-20T17:25:28+00:00
+- 链接：https://www.youtube.com/watch?v=mU8WKII1gpk
+- 简介：🔒 Get $200 off your ticket to Zero Trust World 2027, ThreatLocker's learning event, with code ZTWNETWORKCHUCK27: https://ntck.co/ztw  🛡️ Get 71% off Coveron with code chuckcoveron: https://ntck.co/cov
 
 ## Gemini 4 Neon is ridiculous...
 - 频道：Matthew Berman｜时间：2026-11-20T02:37:36+00:00
@@ -34,28 +59,3 @@
 - 频道：Fireship｜时间：2026-11-19T17:40:33+00:00
 - 链接：https://www.youtube.com/watch?v=Qxor6jpfSiU
 - 简介：Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/https://jb.gg/JetBrainsAir-in-IDEs  Solid 2.0 is the framework's first major release in over five years. Why should
-
-## DeepMind Just Released The Best Thing AI Ever Did
-- 频道：Two Minute Papers｜时间：2026-11-19T09:26:19+00:00
-- 链接：https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
-- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cell
-
-## Google's Neon is wild...
-- 频道：Wes Roth｜时间：2026-11-19T04:49:11+00:00
-- 链接：https://www.youtube.com/watch?v=-0uvPVwPFgM
-- 简介：I'm starting a bot league: 🏆 Build a bot with me: https://victrisarena.com/ladders?ladder=league-91f8e8750b1694dd2e0c#invitation=invite_99f7290e49d48e969672b72c42e66d7c93fc162d00dca7c1  (I'm not affil
-
-## 5 reasons you still need to learn Git in 2026
-- 频道：NetworkChuck｜时间：2026-11-18T22:46:03+00:00
-- 链接：https://www.youtube.com/shorts/gp66d6d46SI
-- 简介：Your AI agent can do all the Git work for you. Here's why you should still know it.  Full Git tutorial: https://youtu.be/c5TSRxrDEK8  #git #shorts
-
-## ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC
-- 频道：Latent Space｜时间：2026-11-18T20:00:20+00:00
-- 链接：https://www.youtube.com/watch?v=wX8nDtGIfYA
-- 简介：Anthropic reported $17B in quarterly revenue. What did it cost to get there? Tanay Jaipuria, a partner at Wing Venture Capital, opens the S-1 with swyx and explains how the picture changes when you co
-
-## you need to learn Git RIGHT NOW!!
-- 频道：NetworkChuck｜时间：2026-11-18T17:36:28+00:00
-- 链接：https://www.youtube.com/watch?v=c5TSRxrDEK8
-- 简介：AI writes most of your pull requests now, but you're the one clicking merge. CodeRabbit reads every file first and shows you what it breaks. Start a free 14-day CodeRabbit trial with my link. No credi
