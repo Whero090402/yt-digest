@@ -1,4 +1,24 @@
-# YouTube 精选（RSS 频道，2026-11-26 12:00 UTC）
+# YouTube 精选（RSS 频道，2026-11-27 12:00 UTC）
+
+## How Tesla Generates Its Third-Person Reality View
+- 频道：Matthew Berman｜时间：2026-11-27T10:57:41+00:00
+- 链接：https://www.youtube.com/shorts/ZGX2NLLLYkY
+- 简介：Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com  My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagra
+
+## DeepMind’s New AI Just Changed The AI Race
+- 频道：Two Minute Papers｜时间：2026-11-27T08:42:30+00:00
+- 链接：https://www.youtube.com/watch?v=u6UYsl-KEoc
+- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_
+
+## you need to self-host Github RIGHT NOW!!
+- 频道：NetworkChuck｜时间：2026-11-26T22:21:04+00:00
+- 链接：https://www.youtube.com/watch?v=jHnQycWHW-s
+- 简介：Get your own home lab in the cloud with a Hostinger VPS, and use code NETWORKCHUCK for an extra discount: https://ntck.co/hostinger-gitea  When GitHub goes down, your work goes down with it, and Micro
+
+## How Clay Builds GTM Agents — Jeff Barg, Head of AI
+- 频道：Latent Space｜时间：2026-11-26T19:48:59+00:00
+- 链接：https://www.youtube.com/watch?v=qjPcaZf_plo
+- 简介：Almost half the agent work on Clay now happens in tools like Claude Code, not their own agent.  Swyx and I sat down with Jeff Barg (Head of AI at Clay) to talk about what that means for a SaaS company
 
 ## Hermes Agent just leveled up...
 - 频道：Wes Roth｜时间：2026-11-26T05:44:08+00:00
@@ -44,8 +64,3 @@
 - 频道：NetworkChuck｜时间：2026-11-25T14:45:27+00:00
 - 链接：https://www.youtube.com/watch?v=Z9q4S0Phq_Q
 - 简介：Access your photos, your Immich server and your whole home lab from anywhere, for free, with Twingate: https://ntck.co/twingate_immich  Google has pretty much every photo and video of my family's life
-
-## Claude AI’s Biggest Math Breakthrough Has A Problem.
-- 频道：Two Minute Papers｜时间：2026-11-25T09:54:23+00:00
-- 链接：https://www.youtube.com/watch?v=hwWlEuI359w
-- 简介：❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers  📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.p
